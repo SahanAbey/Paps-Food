@@ -1,0 +1,76 @@
+.first-section {
+  padding-top: 400px;
+  padding-left: 50px;
+  background: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
+    url(images/lidye-1Shk_PkNkNw-unsplash.jpg);
+  background-position: center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#main-img {
+  width: 200px;
+  display: none;
+
+  transform: rotate(25deg);
+  margin-left: 100px;
+}
+.head-sec {
+  text-align: center;
+  padding-bottom: 25px;
+}
+.why-us {
+  text-align: center;
+}
+.rev-h3 {
+  padding-top: 50px;
+  text-align: center;
+}
+h5 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.rev-p {
+  text-align: justify;
+}
+.rev-customers {
+  padding-top: 20px;
+}
+.tel-num,
+.mail {
+  text-decoration: none;
+}
+.contact-us {
+  text-align: center;
+}
+#menu {
+  text-align: center;
+  background-color: #bde0fe;
+}
+.sec-section {
+  background-color: #34a0a4;
+  padding-top: 40px;
+}
+#reviews,
+#con-us {
+  background-color: #c7d6d5;
+}
+nav {
+  background-color: #ffc8dd;
+}
+h2 {
+  font-family: "Lato", sans-serif;
+}
+h4 {
+  font-family: "Montserrat", sans-serif;
+}
+p {
+  font-family: "Open Sans", sans-serif;
+}
+#hov-ic:hover {
+  color: #ef233c;
+}
+#brand-name {
+  font-family: "Lato", sans-serif;
+}
