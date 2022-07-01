@@ -7,7 +7,6 @@
   background-attachment: scroll;
   background-repeat: no-repeat;
   background-size: cover;
-  
 }
 
 #main-img {
@@ -48,6 +47,7 @@ h5 {
 #menu {
   text-align: center;
   background-color: #bde0fe;
+  padding-bottom: 20px;
 }
 .sec-section {
   background-color: #34a0a4;
@@ -74,4 +74,36 @@ p {
 }
 #brand-name {
   font-family: "Lato", sans-serif;
+}
+.carousel-item {
+  text-align: center;
+  margin-top: 40px;
+}
+#reviews {
+  background-color: #00afb9;
+}
+.membership {
+  text-align: center;
+  margin-top: 20px;
+}
+#price-row {
+  text-align: center;
+}
+.cus-name {
+  font-family: "Lato", sans-serif;
+  font-size: 25px;
+}
+.cus-rev {
+  font-family: "Lato", sans-serif;
+}
+.food-img:hover {
+  filter: brightness(70%);
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+}
+.price-tab {
+  background-color: #8d99ae;
 }
